@@ -166,6 +166,10 @@ footer {
     width: 100%;
 }
 
+footer > .volverArriba {
+    margin-bottom: 50px;
+}
+
 footer > div {
     justify-content: center;
     gap: 1rem;
