@@ -166,9 +166,20 @@ footer {
     width: 100%;
 }
 
-footer > .volverArriba {
+/* footer > .volverArriba {
     margin-bottom: 50px;
+    height: 10rem;
 }
+
+.volverArriba > a {
+    text-decoration: none;
+    
+    }                       FOTO FLECHAS CON HOVER
+
+.volverArriba:hover {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/6364/6364313.png");
+    background: cover;
+    }   */
 
 footer > div {
     justify-content: center;
